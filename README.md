@@ -47,10 +47,6 @@ These names Given for unrecognisable in Task Manager.
 1. Start FTP Server on This Ip Address 192.168.8.2:2121
 2. and Start both program and Enjoy!!!!
 
-### Undectable keylogger (60+ Antivirus Bypass)
-
-<img src="virustotal.PNG">
-
 ### Visual C++ Source Code
 
 #### Capture Screenshot
