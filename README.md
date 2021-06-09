@@ -1,6 +1,7 @@
 # keylogger
 Hi everyone this little python script was used on a win32 bit version to install a remote keylogger on the victim's computer
 
+https://www.linkedin.com/in/francesco-fedele-0702b614b/
 
 #### DISCLAIMER : OUR TOOLS ARE FOR EDUCATIONAL PURPOSES ONLY. DON'T USE THEM FOR ILLEGAL ACTIVITIES. YOU ARE THE ONLY RESPONSABLE FOR YOUR ACTIONS! OUR TOOLS ARE OPEN SOURCE WITH NO WARRANTY AND AS ARE.
 ![immagine](https://user-images.githubusercontent.com/56889513/117022330-733a4e80-acf8-11eb-853d-f2ddca63d267.png)
